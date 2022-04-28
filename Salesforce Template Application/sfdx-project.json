@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "STA",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "Salesforce Template Application",
+    "namespace": "sftemplateapp",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "STA": "0Ho5j000000TN3BCAW",
+        "STA@0.1.0-1": "04t5j000000Pn9lAAC"
+    }
+}
